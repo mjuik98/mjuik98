@@ -2,7 +2,7 @@
 > **"전역 공군 중사 출신, 현재 LLM·RAG·AI 시스템 설계·자동화를 배우고 있습니다."**
 
 안녕하세요! 👋
-**AI 엔지니어 최귀빈(mjuik98)**입니다.
+**AI 엔지니어 최귀빈(mjuik98)** 입니다.
 군에서 배운 **책임감과 규율**을 바탕으로, 이제는 AI라는 도구로 세상에 없던 가치를 만들어가고 있습니다.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mjuik98&show_icons=true&theme=tokyonight)](https://github.com/mjuik98)
@@ -12,9 +12,8 @@
 ## 🔭 About Me
 **"규율과 팀워크로 다져진 실행력."**
 - **Background**: 대한민국 공군 중사 전역 (2016. 01. 10 ~ 2021. 12. 31)
-- Codeit AI 엔지니어 부트캠프 4기 (2025. 07. 03 ~ 2026. 01. 29)
 - **Focus**: LLM, RAG, Generative AI, Autonomous Agents
-- **Status**: Codeit AI 엔지니어 부트캠프 4기 수료 중
+- **Status**: Codeit AI 엔지니어 부트캠프 4기 (2025. 07. 03 ~ 2026. 01. 29)
 
 ---
 
