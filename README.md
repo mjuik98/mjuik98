@@ -60,6 +60,9 @@
 ## 📫 연락처
 - Email: mjuik98@gmail.com
 
+## 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjuik98&theme=radical)](https://git.io/streak-stats)
+
 ---
 
 감사합니다! ✨
