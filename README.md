@@ -14,8 +14,7 @@
 - **ProjectB** — 간단한 설명. [GitHub](https://github.com/mjuik98/project-b)
 
 ## 📫 Contact
-- Email: youremail@example.com  
-- Blog: https://yourblog.example.com
+- Email: mjuik98@gmail.com
 
 ---
 
