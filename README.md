@@ -32,7 +32,7 @@
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JASS](https://img.shields.io/badge/JASS-000000?style=for-the-badge&logo=none&logoColor=white)
+![JASS](https://img.shields.io/badge/JASS-D97757?style=for-the-badge&logo=none&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### ⚡ Tools & IDE
