@@ -23,7 +23,7 @@
 **"AI 기반 광고 이미지 생성 프로젝트"**
 
 ### 💊 [codeit_RAG](https://github.com/Lee-keonhee/codeit_RAG)
-**"경구약제 이미지를 분석하여 알약의 종류를 식별하는 객체 검출(Object Detection) 프로젝트"**
+**"이미지를 분석하여 종류를 식별하는 객체 검출 프로젝트"**
 
 ---
 
