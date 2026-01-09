@@ -2,7 +2,7 @@
 > **"전역 공군 중사 출신, 현재 LLM·RAG·AI 시스템 설계·자동화를 배우고 있습니다."**
 
 안녕하세요! 👋
-**AI 엔지니어 최귀빈(mjuik98)** 입니다.
+**AI 엔지니어 최귀빈(mjuik98)** 입니다.<br>
 군에서 배운 **책임감과 규율**을 바탕으로, 이제는 AI라는 도구로 세상에 없던 가치를 만들어가고 있습니다.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjuik98&theme=tokyonight)](https://git.io/streak-stats)
