@@ -5,7 +5,7 @@
 **AI 엔지니어 최귀빈(mjuik98)** 입니다.
 군에서 배운 **책임감과 규율**을 바탕으로, 이제는 AI라는 도구로 세상에 없던 가치를 만들어가고 있습니다.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mjuik98&show_icons=true&theme=tokyonight)](https://github.com/mjuik98)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjuik98&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
@@ -57,14 +57,8 @@
 
 ---
 
-## 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjuik98&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
 ### 📫 Contact
 - **Email**: mjuik98@gmail.com
-- **Goal**: "문제를 해결하는 엔지니어"
 
 <br>
 <p align="center">Thank you for visiting! ✨</p>
