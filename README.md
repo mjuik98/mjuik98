@@ -19,18 +19,6 @@ LLM/RAG, 생성형 이미지, 추천 시스템을 중심으로 서비스를 직�
 
 ## 🚀 Key Projects
 
-### 🎨 [AdGen_AI](https://github.com/Dongjin-1203/AdGen_AI)
-**이미지 1장으로 가상 피팅 이미지, 광고 캡션, 웹페이지를 생성하는 AI 광고 서비스**
-- SDXL/RealVisXL, IDM-VTON, ControlNet, IP-Adapter 기반 광고 이미지 생성 파이프라인 구현
-- Vision AI 메타데이터 기반 PromptEngine을 설계해 Resort / Retro / Romantic 3종 스타일 프리셋 자동 생성 구현
-- SDXL VAE의 FP16 디코딩 이슈로 발생한 격자 무늬 아티팩트를 float32 upcasting 및 Fixed VAE 교체로 해결
-
-### 📑 [입찰메이트 RAG 시스템](https://github.com/Lee-keonhee/codeit_RAG)
-**LangGraph 기반 지능형 B2G 입찰 문서 검색 및 질의응답 시스템**
-- 정보 요청, 비교, 요약, 조건 추출, 유사 문서 검색까지 5개 intent 지원
-- 주제 변경 감지, 다중 필터 병합, 하이브리드 검색, 리랭킹, retrieval/answer evaluation을 포함한 RAG 파이프라인 설계
-- intent 및 retrieval 평가 결과에 따라 재검색 또는 답변 생성으로 분기되는 conditional routing 로직 구현
-
 ### 🧾 [문서 기반 RAG 지식도우미](https://github.com/mjuik98/RAGKnowledgeAssistant.git)
 **공공 문서를 바탕으로 근거와 출처를 함께 제시하는 한국어 질의응답 시스템**
 - PDF/TXT/DOCX 문서 수집, 파싱, 청크 분할, 색인 파이프라인 구현
@@ -42,6 +30,18 @@ LLM/RAG, 생성형 이미지, 추천 시스템을 중심으로 서비스를 직�
 - 협업 필터링 기반 후보 생성, 메타데이터 기반 랭킹, MMR 기반 재정렬 구조 구현
 - cold-start 추천과 추천/피드백 로그 저장 구조 설계
 - HitRate, NDCG, MRR, Coverage, Diversity 등 오프라인 평가 지표를 구성해 추천 품질 검증
+
+### 🎨 [AdGen_AI](https://github.com/Dongjin-1203/AdGen_AI)
+**이미지 1장으로 가상 피팅 이미지, 광고 캡션, 웹페이지를 생성하는 AI 광고 서비스**
+- SDXL/RealVisXL, IDM-VTON, ControlNet, IP-Adapter 기반 광고 이미지 생성 파이프라인 구현
+- Vision AI 메타데이터 기반 PromptEngine을 설계해 Resort / Retro / Romantic 3종 스타일 프리셋 자동 생성 구현
+- SDXL VAE의 FP16 디코딩 이슈로 발생한 격자 무늬 아티팩트를 float32 upcasting 및 Fixed VAE 교체로 해결
+
+### 📑 [입찰메이트 RAG 시스템](https://github.com/Lee-keonhee/codeit_RAG)
+**LangGraph 기반 지능형 B2G 입찰 문서 검색 및 질의응답 시스템**
+- 정보 요청, 비교, 요약, 조건 추출, 유사 문서 검색까지 5개 intent 지원
+- 주제 변경 감지, 다중 필터 병합, 하이브리드 검색, 리랭킹, retrieval/answer evaluation을 포함한 RAG 파이프라인 설계
+- intent 및 retrieval 평가 결과에 따라 재검색 또는 답변 생성으로 분기되는 conditional routing 로직 구현
 
 ---
 
