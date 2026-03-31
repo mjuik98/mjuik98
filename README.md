@@ -31,7 +31,7 @@ LLM/RAG, 생성형 이미지, 추천 시스템을 중심으로 서비스를 직�
 - cold-start 추천과 추천/피드백 로그 저장 구조 설계
 - HitRate, NDCG, MRR, Coverage, Diversity 등 오프라인 평가 지표를 구성해 추천 품질 검증
 
-### 📑 [가족 식사 공유&기록](https://github.com/mjuik98/FamilyMeal)
+### 🍱 [가족 식사 공유&기록](https://github.com/mjuik98/FamilyMeal)
 **가족 간의 식사 기록을 공유하고 소통하며 올바른 식습관을 형성하도록 돕는 웹 서비스**
 - Next.js 기반의 부드러운 애니메이션과 반응형 디자인으로 직관적인 사용자 경험 제공
 - 식사 사진 업로드(+확대), 댓글(+답글), 좋아요(이모지) 기능을 통해 실시간 가족 커뮤니케이션 강화
