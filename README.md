@@ -43,6 +43,12 @@ LLM/RAG, 생성형 이미지, 추천 시스템을 중심으로 서비스를 직�
 - 주제 변경 감지, 다중 필터 병합, 하이브리드 검색, 리랭킹, retrieval/answer evaluation을 포함한 RAG 파이프라인 설계
 - intent 및 retrieval 평가 결과에 따라 재검색 또는 답변 생성으로 분기되는 conditional routing 로직 구현
 
+### 📑 [가족 식사 공유&기록](https://github.com/mjuik98/FamilyMeal)
+**abc**
+- a
+- b
+- c
+
 ---
 
 ## 🛠️ Technical Artifacts
