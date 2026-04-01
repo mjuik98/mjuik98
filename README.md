@@ -51,6 +51,16 @@ LLM/RAG, 생성형 이미지, 추천 시스템을 중심으로 서비스를 직�
 
 ---
 
+## 😄 Hobby
+
+### 🎮 [Vampire Survivors](https://github.com/mjuik98/AshenRequiem)
+**HTML / JavaScript 기반의 뱀서라이크**
+
+### 🎮 [Roguelike Deckbuilding RPG](https://github.com/mjuik98/EotF)
+**HTML / JavaScript 기반의 로그라이크 덱빌딩 RPG**
+
+---
+
 ## 🛠️ Technical Artifacts
 
 ### 💻 Languages
