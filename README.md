@@ -10,8 +10,6 @@ LLM/RAG, 생성형 이미지, 추천 시스템을 중심으로 서비스를 직�
 ---
 
 ## 🔭 About Me
-- **Background**: 대한민국 공군 중사 전역 (2016. 01. 10 ~ 2021. 12. 31)
-- **Status**: Codeit AI 엔지니어 부트캠프 4기 (2025. 07. 03 ~ 2026. 01. 29)
 - **Focus**: LLM, RAG, Generative AI, Recommendation, Computer Vision
 - **Interested In**: Retrieval 품질 개선, 생성형 시스템 안정화, 서비스형 AI 백엔드 구현
 
